@@ -32,7 +32,7 @@ Each name should include a brief one paragraph descriptions of the teammates pri
 ...
 
 ### Name 3
-...
+...Erik
 
 ## Milestones
 
